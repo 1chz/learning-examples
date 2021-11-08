@@ -19,3 +19,6 @@
 [submodule "vue-js"]
 	path = vue-js
 	url = https://github.com/shirohoo/vue-js
+[submodule "algorithm"]
+	path = algorithm
+	url = https://github.com/shirohoo/algorithm
