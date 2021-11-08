@@ -1,24 +1,6 @@
 [submodule "nand2tetris"]
 	path = nand2tetris
 	url = https://github.com/shirohoo/nand2tetris
-[submodule "vue-js"]
-	path = vue-js
-	url = https://github.com/shirohoo/vue.js
-[submodule "benchmark"]
-	path = benchmark
-	url = https://github.com/shirohoo/jvm-benchmark
-[submodule "algorithm"]
-	path = algorithm
-	url = https://github.com/shirohoo/java-algorithm
 [submodule "design-pattern"]
 	path = design-pattern
 	url = https://github.com/shirohoo/design-pattern
-[submodule "spring-batch"]
-	path = spring-batch
-	url = https://github.com/shirohoo/spring-batch
-[submodule "spring-rest-docs"]
-	path = spring-rest-docs
-	url = https://github.com/shirohoo/spring-rest-docs
-[submodule "spring-data-jpa"]
-	path = spring-data-jpa
-	url = https://github.com/shirohoo/jpa-in-action
