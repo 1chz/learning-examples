@@ -4,3 +4,18 @@
 [submodule "design-pattern"]
 	path = design-pattern
 	url = https://github.com/shirohoo/design-pattern
+[submodule "spring-rest-docs-examples"]
+	path = spring-rest-docs-examples
+	url = https://github.com/shirohoo/spring-rest-docs-examples
+[submodule "spring-data-jpa-examples"]
+	path = spring-data-jpa-examples
+	url = https://github.com/shirohoo/spring-data-jpa-examples
+[submodule "spring-batch-examples"]
+	path = spring-batch-examples
+	url = https://github.com/shirohoo/spring-batch-examples
+[submodule "benchmark"]
+	path = benchmark
+	url = https://github.com/shirohoo/benchmark
+[submodule "vue-js"]
+	path = vue-js
+	url = https://github.com/shirohoo/vue-js
