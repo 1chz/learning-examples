@@ -22,3 +22,6 @@
 [submodule "algorithm"]
 	path = algorithm
 	url = https://github.com/shirohoo/algorithm
+[submodule "spring-boot-examples"]
+	path = spring-boot-examples
+	url = https://github.com/shirohoo/spring-boot-examples
