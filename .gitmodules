@@ -25,3 +25,6 @@
 [submodule "spring-boot-examples"]
 	path = spring-boot-examples
 	url = https://github.com/shirohoo/spring-boot-examples
+[submodule "gradle-in-action"]
+	path = gradle-in-action
+	url = https://github.com/shirohoo/gradle-in-action
