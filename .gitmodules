@@ -28,3 +28,6 @@
 [submodule "gradle-in-action"]
 	path = gradle-in-action
 	url = https://github.com/shirohoo/gradle-in-action
+[submodule "clean-code"]
+	path = clean-code
+	url = https://github.com/shirohoo/clean-code
