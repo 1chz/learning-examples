@@ -1,4 +1,4 @@
-# 저장소 최신화
+# Updating submodules
 
 ```shell
 $ git submodule foreach git pull --rebase
