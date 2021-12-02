@@ -7,4 +7,10 @@ $ git commit
 $ git push
 ```
 
+# Add submodule
+
+```shell
+$ git submodule add {repository-url}
+```
+
 <br />
