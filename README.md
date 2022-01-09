@@ -1,9 +1,11 @@
 # Updating submodules
 
 ```shell
-$ git submodule foreach git pull --rebase
+$ git submodule init
+$ git submodule update
+$ git submodule foreach git pull origin main --rebase
 $ git add .
-$ git commit 
+$ git commit -m 'commit message' 
 $ git push
 ```
 
