@@ -13,6 +13,12 @@
 [submodule "spring-batch-examples"]
 	path = spring-batch-examples
 	url = https://github.com/shirohoo/spring-batch-examples
+[submodule "spring-cloud-examples"]
+	path = spring-cloud-examples
+	url = https://github.com/shirohoo/spring-cloud-examples
+[submodule "spring-data-jdbc-examples"]
+	path = spring-data-jdbc-examples
+	url = https://github.com/shirohoo/spring-data-jdbc-examples
 [submodule "benchmark"]
 	path = benchmark
 	url = https://github.com/shirohoo/benchmark
@@ -28,6 +34,6 @@
 [submodule "gradle-in-action"]
 	path = gradle-in-action
 	url = https://github.com/shirohoo/gradle-in-action
-[submodule "clean-code"]
-	path = clean-code
-	url = https://github.com/shirohoo/clean-code
+[submodule "code-kata"]
+	path = code-kata
+	url = https://github.com/shirohoo/code-kata
