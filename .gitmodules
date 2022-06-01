@@ -40,3 +40,6 @@
 [submodule "network-programming"]
 	path = network-programming
 	url = https://github.com/shirohoo/network-programming
+[submodule "iso-3166"]
+	path = iso-3166
+	url = https://github.com/shirohoo/iso-3166
