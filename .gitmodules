@@ -37,3 +37,6 @@
 [submodule "code-kata"]
 	path = code-kata
 	url = https://github.com/shirohoo/code-kata
+[submodule "network-programming"]
+	path = network-programming
+	url = https://github.com/shirohoo/network-programming
